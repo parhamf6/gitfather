@@ -7,3 +7,12 @@
  Added on : 2025-04-11 18:51:33
 
  --- 
+
+
+> "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."
+
+— Sigmund Freud
+
+ Added on : 2025-04-11 18:56:05
+
+ --- 
