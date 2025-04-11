@@ -34,3 +34,12 @@
  Added on : 2025-04-11 19:06:04
 
  --- 
+
+
+> "You are the only problem you will ever have and you are the only solution."
+
+— Bob Proctor
+
+ Added on : 2025-04-11 19:08:02
+
+ --- 
