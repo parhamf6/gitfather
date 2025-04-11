@@ -74,12 +74,16 @@ python cli.py
 ```text
 TheGitfather/
 │
-├── core/               # Core bot logic
-├── database/           # User and config data
-├── telegram_bot/       # Telegram interaction handlers
-├── cli/                # Command line interface
-├── utils/              # Helpers and generators
-├── config.yaml         # Your settings
+├──config/
+│   ├──setting.yaml     # Your settings
+├── src/                # source of the project
+│   ├──core/            # core scriptes
+│   ├──cli/             # cli tools
+│   ├──bot/             # telegram bot
+│   ├──data/            # simple sqlite database
+│   ├──utilts/          # utils of this project
+│   ├──schuduler/       # run in with timing
+├── tests/              # tests of the project(not complete)
 └── README.md           # You're reading it
 ```
 
