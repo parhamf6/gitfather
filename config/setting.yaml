@@ -1,0 +1,17 @@
+
+randomizer:
+  min_commits: 2 #minimum commit in a day
+  max_commits: 10 #maximum commit in a day
+  timeframe_hours: 6 #range of time frame for example 3am to 9am
+  min_delay: 10 #minimun time for the first commit
+
+
+github:
+  token: "" #your personal github token
+  repo_name : "" #name of the repo that you want to send commit to it
+
+telegram:
+  token: "" #your bot token , get it from botfather
+  allowed_users: # users can use the app for more info go to bot
+    - 
+    - 
