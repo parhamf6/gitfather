@@ -25,3 +25,12 @@
  Added on : 2025-04-11 19:00:03
 
  --- 
+
+
+> "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "
+
+— Henry Ford
+
+ Added on : 2025-04-11 19:06:04
+
+ --- 
