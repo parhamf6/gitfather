@@ -79,3 +79,12 @@
  Added on : 2025-04-12 20:43:50
 
  --- 
+
+
+> "Do not take life too seriously. You will never get out of it alive."
+
+— Elbert Hubbard
+
+ Added on : 2025-04-12 21:14:05
+
+ --- 
