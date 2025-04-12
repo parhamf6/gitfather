@@ -88,3 +88,12 @@
  Added on : 2025-04-12 21:14:05
 
  --- 
+
+
+> "Giving is living. If you stop wanting to give, there's nothing more to live for."
+
+— Audrey Hepburn
+
+ Added on : 2025-04-12 21:14:38
+
+ --- 
