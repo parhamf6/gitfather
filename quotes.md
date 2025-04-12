@@ -43,3 +43,12 @@
  Added on : 2025-04-11 19:08:02
 
  --- 
+
+
+> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
+
+— Dalai Lama
+
+ Added on : 2025-04-12 20:40:42
+
+ --- 
