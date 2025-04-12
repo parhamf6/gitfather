@@ -61,3 +61,12 @@
  Added on : 2025-04-12 20:42:16
 
  --- 
+
+
+> "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."
+
+— Sonia Ricotti
+
+ Added on : 2025-04-12 20:42:59
+
+ --- 
