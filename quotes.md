@@ -70,3 +70,12 @@
  Added on : 2025-04-12 20:42:59
 
  --- 
+
+
+> "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."
+
+— Charles Dickens
+
+ Added on : 2025-04-12 20:43:50
+
+ --- 
