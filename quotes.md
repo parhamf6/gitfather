@@ -142,3 +142,12 @@
  Added on : 2025-04-13 11:03:39
 
  --- 
+
+
+> "Life is the art of drawing sufficient conclusions from insufficient premises."
+
+— Samuel Butler
+
+ Added on : 2025-04-13 11:08:58
+
+ --- 
