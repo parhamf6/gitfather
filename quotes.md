@@ -223,3 +223,12 @@
  Added on : 2025-04-13 20:19:02
 
  --- 
+
+
+> "The wise man reads both books and life itself."
+
+— Lin Yutang
+
+ Added on : 2025-04-13 20:22:03
+
+ --- 
