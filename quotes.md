@@ -151,3 +151,12 @@
  Added on : 2025-04-13 11:08:58
 
  --- 
+
+
+> "You cannot always control what goes on outside. But you can always control what goes on inside. "
+
+— Wayne Dyer
+
+ Added on : 2025-04-13 11:43:19
+
+ --- 
