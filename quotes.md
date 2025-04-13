@@ -196,3 +196,12 @@
  Added on : 2025-04-13 19:51:07
 
  --- 
+
+
+> "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."
+
+— Steve Maraboli
+
+ Added on : 2025-04-13 19:52:07
+
+ --- 
