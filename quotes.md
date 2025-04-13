@@ -169,3 +169,12 @@
  Added on : 2025-04-13 19:34:03
 
  --- 
+
+
+> "Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."
+
+— Nicolas Chamfort
+
+ Added on : 2025-04-13 19:37:15
+
+ --- 
