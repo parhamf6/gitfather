@@ -205,3 +205,12 @@
  Added on : 2025-04-13 19:52:07
 
  --- 
+
+
+> "Focus on how far you have come in life rather than looking at the accomplishments of others."
+
+— Lolly Daskal
+
+ Added on : 2025-04-13 20:18:02
+
+ --- 
