@@ -124,3 +124,12 @@
  Added on : 2025-04-13 11:01:36
 
  --- 
+
+
+> "If there's a definition of freedom, I think it's this: living life on your terms."
+
+— Kamal Ravikant
+
+ Added on : 2025-04-13 11:02:11
+
+ --- 
