@@ -259,3 +259,12 @@
  Added on : 2025-04-13 20:39:02
 
  --- 
+
+
+> "One is never afraid of the unknown; one is afraid of the known coming to an end."
+
+— Jiddu Krishnamurti
+
+ Added on : 2025-04-13 20:40:03
+
+ --- 
