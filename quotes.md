@@ -115,3 +115,12 @@
  Added on : 2025-04-12 21:15:19
 
  --- 
+
+
+> "Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."
+
+— Maxime Lagace
+
+ Added on : 2025-04-13 11:01:36
+
+ --- 
