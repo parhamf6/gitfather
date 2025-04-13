@@ -187,3 +187,12 @@
  Added on : 2025-04-13 19:47:04
 
  --- 
+
+
+> "The power of man has grown in every sphere, except over himself."
+
+— Winston Churchill
+
+ Added on : 2025-04-13 19:51:07
+
+ --- 
