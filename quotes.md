@@ -304,3 +304,12 @@
  Added on : 2025-04-14 23:37:18
 
  --- 
+
+
+> "When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."
+
+— Peter A. Cohen
+
+ Added on : 2025-04-14 23:37:28
+
+ --- 
