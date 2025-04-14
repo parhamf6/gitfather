@@ -268,3 +268,12 @@
  Added on : 2025-04-13 20:40:03
 
  --- 
+
+
+> "Not everything that weighs you down is yours to carry."
+
+— Unknown
+
+ Added on : 2025-04-14 23:36:27
+
+ --- 
