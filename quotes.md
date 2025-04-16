@@ -313,3 +313,12 @@
  Added on : 2025-04-14 23:37:28
 
  --- 
+
+
+> "Ponder and deliberate before you make a move."
+
+— Sun Tzu
+
+ Added on : 2025-04-16 20:33:02
+
+ --- 
