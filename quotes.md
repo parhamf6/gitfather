@@ -412,3 +412,12 @@
  Added on : 2025-04-17 21:42:02
 
  --- 
+
+
+> "Few things are more deceptive than memories."
+
+— Carlos Ruiz Zafon
+
+ Added on : 2025-04-17 21:43:02
+
+ --- 
