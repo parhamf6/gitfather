@@ -358,3 +358,12 @@
  Added on : 2025-04-17 21:07:02
 
  --- 
+
+
+> "Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."
+
+— Nelson Mandela
+
+ Added on : 2025-04-17 21:15:02
+
+ --- 
