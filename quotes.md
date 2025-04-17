@@ -394,3 +394,12 @@
  Added on : 2025-04-17 21:37:02
 
  --- 
+
+
+> "Dream big. Start small. But most of all, start."
+
+— Simon Sinek
+
+ Added on : 2025-04-17 21:38:02
+
+ --- 
