@@ -349,3 +349,12 @@
  Added on : 2025-04-17 21:05:02
 
  --- 
+
+
+> "Confidence is like a dragon where, for every head cut off, two more heads grow back."
+
+— Criss Jami
+
+ Added on : 2025-04-17 21:07:02
+
+ --- 
