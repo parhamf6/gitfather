@@ -367,3 +367,12 @@
  Added on : 2025-04-17 21:15:02
 
  --- 
+
+
+> "Know the rules well, so you can break them effectively."
+
+— Dalai Lama
+
+ Added on : 2025-04-17 21:16:03
+
+ --- 
