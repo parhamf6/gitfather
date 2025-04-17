@@ -385,3 +385,12 @@
  Added on : 2025-04-17 21:22:02
 
  --- 
+
+
+> "No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."
+
+— Josh Waitzkin
+
+ Added on : 2025-04-17 21:37:02
+
+ --- 
