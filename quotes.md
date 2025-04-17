@@ -376,3 +376,12 @@
  Added on : 2025-04-17 21:16:03
 
  --- 
+
+
+> "No great mind has ever existed without a touch of madness."
+
+— Aristotle
+
+ Added on : 2025-04-17 21:22:02
+
+ --- 
