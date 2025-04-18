@@ -475,3 +475,12 @@
  Added on : 2025-04-18 20:20:02
 
  --- 
+
+
+> "The more knowledge you have, the more you're free to rely on your instincts."
+
+— Arnold Schwarzenegger
+
+ Added on : 2025-04-18 20:21:03
+
+ --- 
