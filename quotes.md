@@ -457,3 +457,12 @@
  Added on : 2025-04-18 20:06:03
 
  --- 
+
+
+> "If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."
+
+— Ming-Dao Deng
+
+ Added on : 2025-04-18 20:10:03
+
+ --- 
