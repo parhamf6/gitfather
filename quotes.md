@@ -484,3 +484,12 @@
  Added on : 2025-04-18 20:21:03
 
  --- 
+
+
+> "Don't look for meaning in the words. Listen to the silences."
+
+— Samuel Beckett
+
+ Added on : 2025-04-18 20:22:02
+
+ --- 
