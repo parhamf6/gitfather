@@ -520,3 +520,12 @@
  Added on : 2025-04-18 20:59:02
 
  --- 
+
+
+> "Love is not about possession. Love is about appreciation."
+
+— Osho
+
+ Added on : 2025-04-18 21:02:03
+
+ --- 
