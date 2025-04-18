@@ -538,3 +538,12 @@
  Added on : 2025-04-18 21:03:02
 
  --- 
+
+
+> "We are most nearly ourselves when we achieve the seriousness of the child at play."
+
+— Heraclitus
+
+ Added on : 2025-04-18 21:04:02
+
+ --- 
