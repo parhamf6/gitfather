@@ -6,6 +6,8 @@
 **The Gitfather** is a personal automation bot for Git operations, built with style and efficiency. Inspired by *The Godfather*, this project adds a touch of organized automation to your git workflow — all under your control.
 
 ---
+# still on production , its not commpleted yet.
+---
 
 ## 🧠 What It Does
 
