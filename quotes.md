@@ -502,3 +502,12 @@
  Added on : 2025-04-18 20:29:03
 
  --- 
+
+
+> "Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"
+
+— Sathya Sai Baba
+
+ Added on : 2025-04-18 20:35:02
+
+ --- 
