@@ -439,3 +439,12 @@
  Added on : 2025-04-18 19:57:03
 
  --- 
+
+
+> "What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"
+
+— Charles Darwin
+
+ Added on : 2025-04-18 19:59:02
+
+ --- 
