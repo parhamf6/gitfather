@@ -601,3 +601,12 @@
  Added on : 2025-04-19 18:59:02
 
  --- 
+
+
+> "It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."
+
+— Gurbaksh Chahal
+
+ Added on : 2025-04-19 19:03:02
+
+ --- 
