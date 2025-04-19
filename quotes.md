@@ -610,3 +610,12 @@
  Added on : 2025-04-19 19:03:02
 
  --- 
+
+
+> "Do what is right, not what is easy, nor what is popular."
+
+— Roy T. Bennett
+
+ Added on : 2025-04-19 19:09:03
+
+ --- 
