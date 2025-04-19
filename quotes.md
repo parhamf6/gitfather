@@ -565,3 +565,12 @@
  Added on : 2025-04-19 18:47:02
 
  --- 
+
+
+> "Absorb what is useful, discard what is not, add what is uniquely your own."
+
+— Bruce Lee
+
+ Added on : 2025-04-19 18:51:02
+
+ --- 
