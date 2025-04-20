@@ -673,3 +673,12 @@
  Added on : 2025-04-20 13:01:02
 
  --- 
+
+
+> "Stay away from people who makes you feel like you are wasting their time."
+
+— Paulo Coelho
+
+ Added on : 2025-04-20 13:06:02
+
+ --- 
