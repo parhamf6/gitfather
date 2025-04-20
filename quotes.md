@@ -664,3 +664,12 @@
  Added on : 2025-04-20 12:49:03
 
  --- 
+
+
+> "If it is not right, do not do it, if it is not true, do not say it."
+
+— Marcus Aurelius
+
+ Added on : 2025-04-20 13:01:02
+
+ --- 
