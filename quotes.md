@@ -700,3 +700,12 @@
  Added on : 2025-04-20 20:26:03
 
  --- 
+
+
+> "To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."
+
+— Deepak Chopra
+
+ Added on : 2025-04-20 20:34:01
+
+ --- 
