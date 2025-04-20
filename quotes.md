@@ -718,3 +718,12 @@
  Added on : 2025-04-20 20:35:03
 
  --- 
+
+
+> "The heart wants what it wants - or else it does not care."
+
+— Emily Dickinson
+
+ Added on : 2025-04-20 20:40:02
+
+ --- 
