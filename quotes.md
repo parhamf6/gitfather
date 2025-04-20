@@ -736,3 +736,12 @@
  Added on : 2025-04-20 20:41:02
 
  --- 
+
+
+> "Anything becomes interesting if you look at it long enough.."
+
+— Gustave Flaubert
+
+ Added on : 2025-04-20 20:55:02
+
+ --- 
