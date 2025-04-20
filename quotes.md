@@ -691,3 +691,12 @@
  Added on : 2025-04-20 13:07:02
 
  --- 
+
+
+> "The eye with which I see God is the same eye with which God sees me."
+
+— Meister Eckhart
+
+ Added on : 2025-04-20 20:26:03
+
+ --- 
