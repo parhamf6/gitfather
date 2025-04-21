@@ -781,3 +781,12 @@
  Added on : 2025-04-20 21:11:01
 
  --- 
+
+
+> "Desire is suffering."
+
+— Naval Ravikant
+
+ Added on : 2025-04-21 12:59:04
+
+ --- 
