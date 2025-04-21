@@ -844,3 +844,12 @@
  Added on : 2025-04-21 13:50:02
 
  --- 
+
+
+> "Change will not come if we wait for some other person, or if we wait for some other time."
+
+— Barack Obama
+
+ Added on : 2025-04-21 13:52:02
+
+ --- 
