@@ -826,3 +826,12 @@
  Added on : 2025-04-21 13:06:04
 
  --- 
+
+
+> "I would rather die on my feet than live on my knees."
+
+— Euripides
+
+ Added on : 2025-04-21 13:48:02
+
+ --- 
