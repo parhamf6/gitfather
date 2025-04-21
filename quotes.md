@@ -862,3 +862,12 @@
  Added on : 2025-04-21 13:53:02
 
  --- 
+
+
+> "If you want to see things just as they are, then you yourself must practice just as you are."
+
+— Dogen
+
+ Added on : 2025-04-21 13:56:02
+
+ --- 
