@@ -898,3 +898,12 @@
  Added on : 2025-04-22 12:45:03
 
  --- 
+
+
+> "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."
+
+— Elbert Hubbard
+
+ Added on : 2025-04-22 12:47:03
+
+ --- 
