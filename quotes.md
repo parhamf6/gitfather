@@ -880,3 +880,12 @@
  Added on : 2025-04-22 12:38:03
 
  --- 
+
+
+> "We live only now. Everything else is either passed or is unknown."
+
+— Marcus Aurelius
+
+ Added on : 2025-04-22 12:41:02
+
+ --- 
