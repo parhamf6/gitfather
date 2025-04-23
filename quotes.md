@@ -943,3 +943,12 @@
  Added on : 2025-04-23 14:29:03
 
  --- 
+
+
+> "It is far easier to start something than it is to finish it."
+
+— Amelia Earhart
+
+ Added on : 2025-04-23 14:30:03
+
+ --- 
