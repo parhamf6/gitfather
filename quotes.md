@@ -952,3 +952,12 @@
  Added on : 2025-04-23 14:30:03
 
  --- 
+
+
+> "Outstanding people have one thing in common: an absolute sense of mission.  "
+
+— Zig Ziglar
+
+ Added on : 2025-04-23 14:43:01
+
+ --- 
