@@ -970,3 +970,12 @@
  Added on : 2025-04-23 14:50:03
 
  --- 
+
+
+> "No man is free who is not master of himself."
+
+— Epictetus
+
+ Added on : 2025-04-23 14:55:03
+
+ --- 
