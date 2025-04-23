@@ -925,3 +925,12 @@
  Added on : 2025-04-23 14:26:03
 
  --- 
+
+
+> "Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."
+
+— Les Brown
+
+ Added on : 2025-04-23 14:27:03
+
+ --- 
