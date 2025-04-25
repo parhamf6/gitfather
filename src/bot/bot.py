@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 ALLOWED_USERS = setting["telegram"].get("allowed_users")
 
 async def notify_user(msg):
-    bot_instance = Bot('8045494347:AAEPoPEOfLs1fMghuh-RZfGvEDsDyzbLCL0')
+    bot_instance = Bot('')
     for user_id in ALLOWED_USERS:
         try:
             await bot_instance.send_message(chat_id=user_id, text=msg)
