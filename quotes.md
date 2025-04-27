@@ -1060,3 +1060,12 @@
  Added on : 2025-04-27 13:16:38
 
  --- 
+
+
+> "You have within you right now, everything you need to deal with whatever the world can throw at you."
+
+— Brian Tracy
+
+ Added on : 2025-04-27 13:21:02
+
+ --- 
