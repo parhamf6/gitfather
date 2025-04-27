@@ -1087,3 +1087,12 @@
  Added on : 2025-04-27 13:27:02
 
  --- 
+
+
+> "The ones who are crazy enough to think they can change the world, are the ones that do."
+
+— Steve Jobs
+
+ Added on : 2025-04-27 13:29:01
+
+ --- 
