@@ -1069,3 +1069,12 @@
  Added on : 2025-04-27 13:21:02
 
  --- 
+
+
+> "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "
+
+— Martin Luther
+
+ Added on : 2025-04-27 13:24:02
+
+ --- 
