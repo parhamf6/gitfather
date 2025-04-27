@@ -1096,3 +1096,12 @@
  Added on : 2025-04-27 13:29:01
 
  --- 
+
+
+> "Convinced myself, I seek not to convince."
+
+— Edgar Allan Poe
+
+ Added on : 2025-04-27 13:32:02
+
+ --- 
