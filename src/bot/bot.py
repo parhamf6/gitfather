@@ -95,19 +95,3 @@ if __name__ == '__main__':
 
 
 
-
-# @restricted
-# async def commit_q(update: Update, context: CallbackContext) -> None:
-#     send_commit = commit_quote(get_repo())
-#     q = send_commit[0]
-#     t = send_commit[-1]
-#     loading_msgs = ["Processing.", "Processing..", "Processing...", "Processing...."]
-#     progress_msg = await update.message.reply_text("Processing")
-#     for msg in loading_msgs:
-#         await progress_msg.edit_text(f"{msg}")
-#         await asyncio.sleep(2)
-#     await update.message.reply_text(f"{q['q']} \nby:{q['a']} \n\nAdded on : {t}")
-
-
-
-
